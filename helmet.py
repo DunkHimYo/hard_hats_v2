@@ -25,7 +25,7 @@ class helmet():
         self.state = {'flame': False, 'gas': False, 'vibration': False, 'distance': False, 'camera': False}
         self.state_thread =  threading.Thread(target=self.state_output)
 
-        if ip_addr is not None and port_num is not None:
+        if ip_addr is not None or port_num is not None:
             """
             소켓 통신 연결
             """
