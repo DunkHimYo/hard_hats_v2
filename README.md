@@ -18,15 +18,23 @@
 |![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/buzzer.jpg)|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/buzzer2.jpg)|
 
 
-| 부저 | 오실로스코프 결과 |
+| LED | 오실로스코프 결과 |
 | ------ | ------ |
 |![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/led.jpg)|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/led2.jpg)|
 
 
-| 부저 | 오실로스코프 결과 |
+| 진동센서 | 오실로스코프 결과 |
 | ------ | ------ |
-|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/buzzer.jpg)|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/led2.jpg)|
+|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/vibration.jpg)|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/vibration2.jpg)|
 
+| 초음파센서 | 오실로스코프 결과 |
+| ------ | ------ |
+|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/ultra.jpg)|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/ultra2.jpg)|
+
+
+| 작동 결과 |
+| ------ |
+|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/working.jpg)|
 ## 해결 방안
 
 - BCI를 이용해 착용자의 뇌파를 입력 받음
