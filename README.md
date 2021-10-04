@@ -25,7 +25,7 @@
 
 | 진동센서 | 오실로스코프 결과 |
 | ------ | ------ |
-|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/vibration.jpg)|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/vibration2.jpg)|
+|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/vibration.png)|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/vibration2.jpg)|
 
 | 초음파센서 | 오실로스코프 결과 |
 | ------ | ------ |
