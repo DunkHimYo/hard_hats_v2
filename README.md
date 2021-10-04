@@ -8,6 +8,11 @@
 | ------ |
 |![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/death_graph.png)|
 
+
+| 영상 시청을 원할시 클릭 |
+| ------ |
+|[![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/main_img.png)](https://youtu.be/KndvLGN82pY)|
+
 | 부저 | 오실로스코프 결과 |
 | ------ | ------ |
 |![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/buzzer.jpg)|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/buzzer2.jpg)|
@@ -35,6 +40,3 @@
 - 사용자의 부주의(과속, 음주, 졸음 등)로 인한 위험 상황 저하
 - 사용자의 상황을 주변 차량들이 LED를 통해 시각적으로 확인하여 미연에 방지
 
-| 영상 시청을 원할시 클릭 |
-| ------ |
-|[![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/main_img.png)](https://youtu.be/KndvLGN82pY)|
