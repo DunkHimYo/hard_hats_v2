@@ -9,7 +9,7 @@
 | ------ |
 |![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/graph.png)|
 
-| 사고 현황 | 사고 현황 |
+| 부저 | 오실로스코프 결과 |
 | ------ | ------ |
 |![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/buzzer.jpg)|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/buzzer2.jpg)|
 
