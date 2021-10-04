@@ -1,7 +1,7 @@
 
 | 영상 시청을 원할시 클릭 |
 | ------ |
-|[![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/main_img.png)](https://youtu.be/KndvLGN82pY)|
+|[![waiting](https://youtu.be/vrGrH6fPmb8)|
 
 # 현장 안전 스마트 헬멧
 
