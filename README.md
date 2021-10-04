@@ -1,3 +1,8 @@
+
+| 영상 시청을 원할시 클릭 |
+| ------ |
+|[![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/main_img.png)](https://youtu.be/KndvLGN82pY)|
+
 # 현장 안전 스마트 헬멧
 
 - 4년을 기점으로 18년까지 꾸준히 사고 사망자수가 증가하고 있음을 확인할 수 있다. 사고사망자수는 2017년 964명에서 971명으로 소폭 증가했으며 이중에서 건설업이 485명으로 절반을 차지
@@ -7,11 +12,6 @@
 | 사고 현황 |
 | ------ |
 |![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/death_graph.png)|
-
-
-| 영상 시청을 원할시 클릭 |
-| ------ |
-|[![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/main_img.png)](https://youtu.be/KndvLGN82pY)|
 
 | 부저 | 오실로스코프 결과 |
 | ------ | ------ |
