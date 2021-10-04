@@ -32,9 +32,6 @@
 |![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/ultra.jpg)|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/ultra2.jpg)|
 
 
-| 작동 결과 |
-| ------ |
-|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/working.jpg)|
 ## 해결 방안
 
 - BCI를 이용해 착용자의 뇌파를 입력 받음
