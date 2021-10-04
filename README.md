@@ -9,13 +9,9 @@
 | ------ |
 |![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/graph.png)|
 
-| 사고 현황 |
-| ------ |
-|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/buzzer.jpg)|
-
-| 사고 현황 |
-| ------ |
-|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/buzzer2.jpg)|
+| 사고 현황 | 사고 현황 |
+| ------ | ------ |
+|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/buzzer.jpg)|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/buzzer2.jpg)|
 
 | 오토바이 CC 빈도 |
 | ------ |
