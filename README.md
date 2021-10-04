@@ -38,6 +38,9 @@
 | ------ | ------ |
 |![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/ultra.jpg)|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/ultra2.jpg)|
 
+| 카메라 결과 |
+| ------ |
+|![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/camera.jpg)|
 
 
 ## 기대 효과
