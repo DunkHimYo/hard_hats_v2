@@ -1,7 +1,7 @@
 
 | 영상 시청을 원할시 클릭 |
 | ------ |
-|[![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/helmet.png)](https://youtu.be/vrGrH6fPmb8)|
+|[![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/helmet.png)](https://youtu.be/V-a70yIe8mY)|
 
 # 현장 안전 스마트 헬멧
 
